@@ -1,4 +1,4 @@
-# Translation of the AAAAXY game into Russian
+# Translation of the [AAAAXY](https://github.com/divVerent/aaaaxy) game into Russian
 
 ## Why not in the official repository?
 
