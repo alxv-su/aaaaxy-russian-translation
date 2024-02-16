@@ -707,7 +707,7 @@ msgstr "Кто долго ждёт –{{BR}}повторяет попытку #D
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=1814]
 msgid "Avoid getting blocked in!"
-msgstr "Смотрит чтоб не{{BR}}замуровали, демоны!"
+msgstr "Смотри чтоб не замуровали,{{BR}}демоны!"
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=1816]
 msgid "Treasure hunts can be time intensive."
@@ -719,7 +719,7 @@ msgstr "Это не трудно."
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=1818]
 msgid "Same procedure as last year?"
-msgstr "В предыдущий раз мы делали то же самое. Верно?"
+msgstr "В предыдущий раз{{BR}}мы делали то же самое. Верно?"
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=1819]
 msgid "Just put the thing on the thing{{BR}}and the other one too, already!"
