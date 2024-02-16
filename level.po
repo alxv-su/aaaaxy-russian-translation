@@ -1225,7 +1225,7 @@ msgstr "... когда-нибудь заканчивается."
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=6118]
 msgid "Dr. W!"
-msgstr "Доктор В!"
+msgstr "Доктор К!"
 
 #: assets/maps/level.tmx//map/objectgroup/object[@id=6119]
 msgid "It Only Takes One"
